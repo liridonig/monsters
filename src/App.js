@@ -37,8 +37,6 @@ const App = () => {
         className="monsters-search-box"
       />
       <Cardlist monsters={filteredMonsters} />
-
-      <TestComp></TestComp>
     </div>
   );
 };
